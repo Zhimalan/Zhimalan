@@ -8,7 +8,7 @@ Undergraduate student at Harbin Engineering University
 
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-RAG-Agent-1B7B4F)](https://www.langchain.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-RAG%20%26%20Agent-1B7B4F?logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![Conda](https://img.shields.io/badge/Conda-Environment-342B2B?logo=anaconda&logoColor=white)](https://conda.io/)
 
 </div>
