@@ -44,12 +44,6 @@ A domain-specific multimodal intelligent Q&A platform for *Dream of the Red Cham
 
 Tech tags: `Qwen2.5` `QLoRA` `RAG` `GraphRAG` `LangGraph` `Gradio`
 
-## 📈 GitHub Statistics
-
-![Zhimalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhimalan&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhimalan&layout=compact&theme=radical)
-
 ## 📫 Contact
 
 - GitHub: [@Zhimalan](https://github.com/Zhimalan)
