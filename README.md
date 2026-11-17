@@ -2,9 +2,9 @@
 
 # Hi, I'm Zhimalan 👋
 
-**软件工程专业学生 · AI 应用开发 · 数据分析**
+**Software Engineering Student · AI Application Development · Data Analytics**
 
-哈尔滨工程大学 · 2023 级软件工程
+Undergraduate student at Harbin Engineering University
 
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -13,38 +13,36 @@
 
 </div>
 
-## 👨‍💻 关于我
+## 👨‍💻 About Me
 
-- 🎓 哈尔滨工程大学软件工程专业本科在读，2023 级
-- 🤖 专注大模型应用开发：RAG、GraphRAG、QLoRA 领域微调、LangGraph 多智能体编排
-- 📊 熟悉 Python 数据处理与机器学习全流程
-- 💼 东软信息安全事业部实习，方向为 LLM / 提示工程 / RAG / LangChain / LlamaIndex / Chroma
-- 🎯 校团委学生干部，参与多项科创与实践活动的组织
+- 🎓 Undergraduate student at Harbin Engineering University
+- 🤖 Focused on LLM application development: RAG, GraphRAG, QLoRA fine-tuning, and LangGraph multi-agent orchestration
+- 📊 Proficient in Python data processing and the full machine learning workflow
 
-## 🔧 技术栈
+## 🔧 Tech Stack
 
-| 领域 | 技术 |
-|------|------|
-| 编程语言 | Python、SQL |
-| 深度学习 | PyTorch、QLoRA / LLaMA-Factory、Transformer |
-| 检索增强 | BGE Embedding、Chroma、BM25、Reranker、GraphRAG |
-| Agent 框架 | LangChain、LangGraph、LlamaIndex、MCP |
-| 数据与可视化 | Pandas、NetworkX、Pyvis、Gradio |
-| 工具链 | Anaconda、Git、Trae AI、VS Code |
+| Domain | Technologies |
+|--------|--------------|
+| Programming Languages | Python, SQL |
+| Deep Learning | PyTorch, QLoRA / LLaMA-Factory, Transformer |
+| Retrieval-Augmented Generation | BGE Embedding, Chroma, BM25, Reranker, GraphRAG |
+| Agent Frameworks | LangChain, LangGraph, LlamaIndex, MCP |
+| Data & Visualization | Pandas, NetworkX, Pyvis, Gradio |
+| Toolchain | Anaconda, Git, Trae AI, VS Code |
 
-## 🚀 重点项目
+## 🚀 Featured Project
 
-### [人工智能红楼梦多模态智能解读专家系统](https://github.com/Zhimalan/honglou-ai-multimodal)
+### [AI-Powered Multimodal Expert System for Dream of the Red Chamber](https://github.com/Zhimalan/honglou-ai-multimodal)
 
-基于 Qwen2.5-7B Base 的红楼梦领域多模态智能问答平台，九阶段完整工程实践：
+A domain-specific multimodal intelligent Q&A platform for *Dream of the Red Chamber* built on Qwen2.5-7B Base, developed through a complete nine-stage engineering workflow:
 
-- **领域微调**：QLoRA 4bit 量化指令微调（LLaMA-Factory）
-- **多级检索**：BGE 中文嵌入 + Chroma 向量库 + BM25 多路召回 + Reranker 重排序
-- **知识图谱**：GraphRAG 三元组抽取 + NetworkX / Pyvis 人物关系可视化
-- **Agent 编排**：LangGraph 状态机多工具调度
-- **前端交互**：Gradio 双栏界面，集成 ComfyUI 国风人物关系图生成
+- **Domain Fine-tuning**: QLoRA 4-bit quantized instruction tuning (LLaMA-Factory)
+- **Multi-stage Retrieval**: BGE Chinese embeddings + Chroma vector store + BM25 multi-channel recall + Reranker re-ranking
+- **Knowledge Graph**: GraphRAG triple extraction + NetworkX / Pyvis character relationship visualization
+- **Agent Orchestration**: LangGraph state machine for multi-tool scheduling
+- **Interactive UI**: Gradio dual-column interface with ComfyUI-generated traditional Chinese-style character relationship diagrams
 
-技术标签：`Qwen2.5` `QLoRA` `RAG` `GraphRAG` `LangGraph` `Gradio`
+Tech tags: `Qwen2.5` `QLoRA` `RAG` `GraphRAG` `LangGraph` `Gradio`
 
 ## 📈 GitHub Statistics
 
@@ -52,13 +50,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhimalan&layout=compact&theme=radical)
 
-## 📫 联系我
+## 📫 Contact
 
 - GitHub: [@Zhimalan](https://github.com/Zhimalan)
-- 欢迎 Star 我的项目，或提出 Issue 交流
+- Feel free to star my projects or open an issue to connect
 
 <div align="center">
 
-⭐ 如果这个项目对你有帮助，欢迎点一个 Star！
+⭐ If you find this project helpful, consider giving it a star!
 
 </div>
